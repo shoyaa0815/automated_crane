@@ -1,0 +1,31 @@
+{
+    "name": "automated_crane",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "Pada Education ": "github:Codepada/go#v0.0.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v6.0.27",
+        "tag": "v6.0.27",
+        "commits": "https://github.com/microsoft/pxt-microbit/commits/2c4654e7d5e6a85f8bbc1c2d48467b7665ccf95f",
+        "target": "8.0.22",
+        "pxt": "9.0.19",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
