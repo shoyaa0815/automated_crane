@@ -1,3 +1,11 @@
+This project is my automated crane code for microbit gigo
+
+Hardware
+- microbit
+- GIGO blocks
+- GIGO servo
+- GIGO motor
+- GIGO botton
 
 > Open this page at [https://shoyaa0815.github.io/automated_crane/](https://shoyaa0815.github.io/automated_crane/)
 
